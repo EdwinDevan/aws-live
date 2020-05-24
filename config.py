@@ -1,6 +1,6 @@
-customhost = "database-1.caczxpmltktb.us-east-2.rds.amazonaws.com"
+customhost = "employee.caczxpmltktb.us-east-2.rds.amazonaws.com"
 customuser = "admin"
 custompass = "Password"
-customdb = "database-1"
+customdb = "employee"
 custombucket = "asw-live"
 customregion = "us-east-2"
