@@ -1,6 +1,6 @@
 customhost = "employee.caczxpmltktb.us-east-2.rds.amazonaws.com"
-customuser = "admin"
+customuser = "intellipaat"
 custompass = "Password"
 customdb = "employee"
-custombucket = "asw-live"
+custombucket = "addemployee"
 customregion = "us-east-2"
